@@ -1,1 +1,1 @@
-# OTP_Test_Case_konnect_edu_web
+# OTP_object_test_case
